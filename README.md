@@ -1,4 +1,4 @@
-# Cloud Forensics AI Agent
+# Cloud Forensics AI Agent (CFAA)
 
 An AI-powered agent for digital forensic analysis of incidents in cloud environments.
 
